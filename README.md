@@ -1,7 +1,7 @@
 # FDS
 Data Structure Lab SEM 3 Computer Engineering
 
-Name        : Assignment_1
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%201.py">Name        : Assignment_1</a>
 =
 In second year computer engineering class, group A student’s play cricket, 
 group B students play badminton and group C students 
@@ -15,7 +15,7 @@ d) Number of students who play cricket and football but not badminton.
 Do not use SET built-in functions)
 
 
-Name        : Assignment_2
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%202.py">Name        : Assignment_2</a>
 =
 Write a python program that computes the net amount of a bank account based on a transaction log from console input. 
 The transaction log format is shown as following: 
@@ -29,7 +29,7 @@ D 100
 Then, the output should be: 500
 
 
-Name        : Assignment_3
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%203.py">Name        : Assignment_3</a>
 =
 Write a Python program to compute following operations on String:
 a) To display word with the longest length
@@ -40,7 +40,7 @@ e) To count the occurrences of each word in a given string
 
 
 
-Name        : Assignment_4
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%204.py">Name        : Assignment_4</a>
 =
 Write a Python program to compute following computation on matrix: 
 a) Addition of two matrices 
@@ -50,7 +50,7 @@ d) Transpose of a matrix
 
 
 
-Name        : Assignment_5
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%205.py">Name        : Assignment_5</a>
 =
 Write a Python program to store first year percentage of students in array. 
 Write
@@ -59,7 +59,7 @@ a) Selection Sort
 b) Bubble sort and display top five scores.
 
 
-Name        : Assignment_7
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%207.py">Name        : Assignment_7</a>
 =
 Write a Python program to store roll numbers of student in array who attended
 training program in random order. 
@@ -71,7 +71,7 @@ attended training program or not, using Binary search
 
 
 
-Name        : Assignment_8
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%208.cpp">Name        : Assignment_8</a>
 =
 The Department of Computer Engineering has student's club named 'Pinnacle Club'. 
 Students of second, third and final year of department can be granted membership on request. 
@@ -88,7 +88,7 @@ Two linked lists exists for two divisions. Concatenate two lists.
 
 
 
-Name        : Assignment_9
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%209.cpp">Name        : Assignment_9</a>
 =
 Second year Computer Engineering class, set A of students like Vanilla Ice-cream and set B of students like butterscotch ice-cream.
 Write C++ program to store two sets using linked list. compute and display-
@@ -99,7 +99,7 @@ The old value of updated or deleted records should be added in the Library_Audit
 
 
 
-Name        : Assignment_10
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%2010.cpp">Name        : Assignment_10</a>
 =
 Implement C++ program for expression conversion as infix to postfix and its evaluation using 
 stack based on given conditions:
@@ -109,7 +109,7 @@ stack based on given conditions:
 
 
 
-Name        : Assignment_11
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%2011.cpp">Name        : Assignment_11</a>
 =
 "A palindrome is a string of character that�s the same forward and backward. Typically,punctuation, capitalization, and spaces are ignored. 
 For example, �Poor Dan is in naD rooP� is a palindrome, as can be seen by examining the characters �poor danisinad roop� and observing that 
@@ -122,7 +122,7 @@ b) To check whether given string is palindrome or not"
 
 
 
-Name        : Assignment_12
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%2012.cpp">Name        : Assignment_12</a>
 =
 Queues are frequently used in computer programming, and a typical example is the creation of a job queue by an 
 operating system. 
@@ -130,14 +130,14 @@ If the operating system does not use priorities, then the jobs are processed in 
 Write C++ program for simulating job queue. Write functions to add job and delete jobs from the queue.
 
 
-Name        : Assignment_13
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%2013.cpp">Name        : Assignment_13</a>
 =
 A double-ended queue (deque) is a linear list in which additions and deletions may be made at either end. 
 Obtain a data representation mapping a deque into a one dimensional array.
 Write C++ program to simulate deque with functions to add and delete elements from either end of the deque
 
 
-Name        : Assignment_14
+<a href="https://github.com/SiddhantGujrathi/FDS/blob/main/Assignment%2014.cpp">Name        : Assignment_14</a>
 =
 Pizza parlor accepting maximum M orders. Orders are served in first come first served basis. 
 Order once placed cannot be cancelled.
